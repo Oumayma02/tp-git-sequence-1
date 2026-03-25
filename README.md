@@ -1,1 +1,2 @@
-Projet Git TP oumayma
+# Bienvenue
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant afficherBienvenue()
