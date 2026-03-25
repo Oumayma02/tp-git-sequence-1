@@ -1,7 +1,7 @@
-#include <iostream>
-using namespace std;
+#include "fonction-bienvenue.h"
 
-int main() {
-    cout << "Bienvenue dans le programme !" << endl;
+int main()
+{
+    afficherBienvenue();
     return 0;
 }
